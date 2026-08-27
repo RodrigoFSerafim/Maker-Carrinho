@@ -9,6 +9,7 @@
 | Henrique de Brito Costa | 98831 |
 | Adriano Lopes | 98574 |
 | João Antonio Rihan | 99656 |
+| Allan Von Ivanov | 98705 |
 
 # Chassi escolhido
 
