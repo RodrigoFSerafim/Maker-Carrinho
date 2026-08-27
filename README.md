@@ -128,8 +128,3 @@ Cada roda será conectada diretamente ao eixo do respectivo motor, permitindo qu
 | Arduino Uno | 1 | 6,86 cm | 5,34 cm | — | Parafusos / espaçadores |
 | Suporte de pilhas | 1 | — | — | — | Parafusos / fita dupla face |
 | Ponte H | 1 | — | — | — | Parafusos / espaçadores |
-
-
-                    TRASEIRA
-
-                 22 × 14,7 cm
