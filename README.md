@@ -132,3 +132,8 @@ Cada roda será conectada diretamente ao eixo do respectivo motor, permitindo qu
 ## 📊 Diagramas do Projeto
 ![Diagrama de blocos e conexões](Diagramas.png)
 
+## Imagens Carrinho
+![Imagem parte de cima](img_carrinho/img_cima.jpeg)
+![Imagem parte de baixo](img_carrinho/img_baixo.jpeg)
+![Imagem de lado](img_carrinho/img_lado.jpeg)
+
