@@ -137,3 +137,9 @@ Cada roda será conectada diretamente ao eixo do respectivo motor, permitindo qu
 ![Imagem parte de baixo](img_carrinho/img_baixo.jpeg)
 ![Imagem de lado](img_carrinho/img_lado.jpeg)
 
+## Imagens Carrinho com Sensor
+![Imagem parte de cima](img_carrinho_sensor/Sensor_cima.jpg)
+![Imagem parte de frente](img_carrinho_sensor/Sensor_frente.jpg)
+![Imagem de lado](img_carrinho_sensor/Sensor_lado.jpg)
+
+
